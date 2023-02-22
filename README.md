@@ -23,6 +23,7 @@ Written as part of self-study. The python [library socket](https://docs.python.o
 ![image](https://user-images.githubusercontent.com/120790937/220673476-dae63136-234b-4db3-a912-1bda6b14767c.png)
 
 # This program works on linux.
+![image](https://user-images.githubusercontent.com/120790937/220696794-993f759a-aca3-455a-972a-3955c8e24286.png)
 
 * If you run this program on Windows, you show this:
 ```bash
